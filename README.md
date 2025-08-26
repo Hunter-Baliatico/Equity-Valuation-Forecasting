@@ -78,4 +78,6 @@ Between 2019 and 2024, the market delivered an average CAGR of 4.02% with monthl
 - Some pricing data was missing or inaccurate and had to be cleaned or removed to keep the analysis accurate.  
 - The Sharpe Proxy used in this project is a simplified version (CAGR ÷ Average Monthly Volatility) and does not factor in risk-free rates.  
 - Volatility spikes in thinly traded stocks may slightly skew stability rankings.  
-- Dividend data only flags whether a stock pays dividends but does not account for the actual size of those payouts.  
+- Dividend data only flags whether a stock pays dividends but does not account for the actual size of those payouts.
+- The average CAGR in the KPI card (~4%) is calculated as a simple mean across all liquid tickers without market cap weighting, which explains why it is lower than typical market-cap-weighted indices.
+
