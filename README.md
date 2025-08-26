@@ -38,8 +38,7 @@ Between 2019 and 2024, the market delivered an average CAGR of 4.02% with monthl
 - From 2019 to 2024, the market grew at an average CAGR of 4.02%, showing steady performance despite periods of macroeconomic pressure like pandemic recovery phases and interest rate hikes.  
 - Average volatility sat at 2.46%, suggesting that the overall market environment was relatively stable. This stability was especially beneficial for more conservative investors.  
 - Dividend-paying stocks made up about 78% of all tickers, showing just how common income-generating stocks are in the market. This insight supports the idea that dividend-focused strategies can be applied widely.  
-- The scenario simulator provides simple but valuable growth projections. For example, a stock like Microsoft, priced at $408, would grow to around $473 at a 3% CAGR, $521 at 5% CAGR, and $658 at 10% CAGR over five years. These examples make it easier to understand the power of compounding over time.  
-- Sector analysis shows that technology and healthcare sectors generally outperformed, while utilities and consumer staples stayed more stable but grew at a slower pace, making them better suited for income-focused portfolios.  
+- The scenario simulator provides simple but valuable growth projections. For example, a stock like Microsoft, priced at $408, would grow to around $473 at a 3% CAGR, $521 at 5% CAGR, and $658 at 10% CAGR over five years. These examples make it easier to understand the power of compounding over time.   
 <img width="1352" height="824" alt="D1" src="https://github.com/user-attachments/assets/92b134de-0e3c-4496-be87-4306b0855647" />
 
 ---
