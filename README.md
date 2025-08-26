@@ -48,7 +48,6 @@ Between 2019 and 2024, the market delivered an average CAGR of 4.02% with monthl
 - Strong sector themes emerged. Many top performers came from semiconductors and EDA (Electronic Design Automation) companies, including LSCC, RMBS, AMD, ACLS, and NVMI, boosted by the rapid expansion of AI and cloud computing.  
 - When adjusting for risk using the Sharpe Proxy (CAGR ÷ annualized volatility), the leaderboard changes. Companies like LLY, ETN, SNPS, and MSFT rise to the top thanks to their combination of strong growth and relatively low volatility, appealing to investors looking for steady, risk-adjusted returns.  
 - This risk-adjusted view highlights an important trade-off: while some stocks grew explosively, their high volatility may not fit a conservative approach. Conversely, stable compounders like MSFT and LLY stand out for consistent performance with less risk.  
-- The dashboard makes it easy to compare growth and stability, helping different types of investors—from aggressive traders to cautious portfolio managers—find opportunities that match their strategies.  
 <img width="1649" height="817" alt="D3" src="https://github.com/user-attachments/assets/175a75f5-0dd9-4da3-8636-2e68db0ff809" />
 
 ---
