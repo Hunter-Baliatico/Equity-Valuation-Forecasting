@@ -59,8 +59,7 @@ Between 2019 and 2024, the market delivered an average CAGR of 4.02% with monthl
   - The 2020 COVID-19 pandemic, which caused a rapid drop followed by one of the fastest recoveries in history due to global stimulus efforts  
   - The 2022 correction, driven by inflation and rate hikes, which slowed growth but didn’t disrupt the broader upward trend  
 - Volatility trends highlight periods of market stress but also show how quickly risk levels normalize, reinforcing the importance of staying invested during uncertainty.  
-- Monthly return patterns highlight recurring seasonal and momentum effects, with six-month moving averages helping to smooth out noise and show longer-term trends.  
-- These insights make it clear that maintaining exposure to high-quality, liquid equities is one of the most reliable ways to build wealth over the long term.  
+- Monthly return patterns highlight recurring seasonal and momentum effects, with six-month moving averages helping to smooth out noise and show longer-term trends.    
 <img width="1651" height="823" alt="D2" src="https://github.com/user-attachments/assets/92ce7a65-674a-4f4d-9858-c2549837d17b" />
 
 ---
