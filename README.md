@@ -12,6 +12,7 @@ This analysis focuses on three key areas:
 - Historical Trends and Volatility Patterns  
 
 The interactive Tableau dashboard for this project can be found here: [Tableau Dashboard](https://public.tableau.com/app/profile/hunter.baliatico/viz/EquityVaIuationForecasting/EquityValuationForecasting)  
+The full original Data set can be found here: [Data set](https://www.kaggle.com/datasets/jakewright/9000-tickers-of-stock-market-data-full-history?utm_source=chatgpt.com)
 
 ---
 
